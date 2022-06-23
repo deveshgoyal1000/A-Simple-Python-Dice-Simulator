@@ -1,4 +1,4 @@
-# branchhh
+
 # Dice Rolling Simulator using random module in Python 🎲
 
 That program make your RPG session more easy and simple. Roll the dice never been easier and fun.
